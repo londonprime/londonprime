@@ -1,16 +1,28 @@
-## Hi there 👋
+LORDEN
 
-<!--
-**londonprime/londonprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer · Designer · Creator
 
-Here are some ideas to get you started:
+Turning ideas into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ABOUT
+
+I'm a beginner developer and designer focused on learning through real projects.
+
+- Python and automation
+- Web development
+- UI/UX and interface design
+- Open-source projects and useful tools
+
+TECHNOLOGIES
+
+"Python" "HTML" "CSS" "JavaScript" "Git" "GitHub"
+
+CURRENT FOCUS
+
+Building useful tools, experimenting with new technologies, and improving my development skills.
+
+PRINCIPLE
+
+Learn. Build. Improve.
